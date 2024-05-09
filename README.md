@@ -14,5 +14,5 @@
 
 ### **Core Competencies**
 
-* **Tools:** - SQL (MySQL, PostgreSQL, SQL Server), R Studio, Excel(Pivot tables, Power Query, DAX), Google Sheets, Power BI, and Tableau.
+* **Tools:** - SQL (MySQL, PostgreSQL, SQL Server), Python, Excel(Pivot tables, Power Query, DAX), Google Sheets, Power BI, and Tableau.
 * **Skills:** - Data Wrangling, Analysis, Visualization, Transact SQL, Business Analysis.
