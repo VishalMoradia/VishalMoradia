@@ -5,9 +5,9 @@
 ### **About Myself**
 
 * I Have done Bachelors in Automotive Engineering (2014-2018) from SRM University, Chennai, India.
-* Moved to Canada in 2019 to pursue two-year Diploma in Business Management, followed by one-year Diploma in Business Analytics. 
-* Transitioned to Data Analytics in Jan - 2020. 
-* I love learning new skills. I recently taught myself R, Python and SQL 
+* Moved to Canada to pursue Diploma in Business Anlytics. 
+* Transitioned to Data Analytics in Jan - 2019. 
+* I love learning new skills. I recently taught myself Python, Excel, and SQL 
 * Using Excel since a long time, from my schooling days to bacelors and now in Data Analytics. 
 * Fanatic of Formula One, Chess and Snooker.
 
